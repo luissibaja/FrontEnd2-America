@@ -1,3 +1,4 @@
 1. Git o SubVersion
 2. Mobile first
 3. Resposive design
+4. BoilerPlate: reglas para mejores practicas en HTML

@@ -18,5 +18,19 @@ El Documento:
   meta name="viewport" define la vista, depende el responsive desing. se desea desactivar esto y cambiarlo por una vista por defecto, se pone el with y el initial scale en 1 
   <link rel="stylesheed" href="css/normalize.css", es para normalizar los estilos en todos los browsers. no usar reset.ccss porque pone todo en cero
   <link rel="stylesheed" href="css/main.css" es el css por defecto
-  <script src="js/vendor/modernizr-2.6.2.min.js"></script> 
+  <script src="js/vendor/modernizr-2.6.2.min.js"></script> trata de hacer que lo de html5 trabaje igual en todos los browsers, usando javascript
+  <!-- es para poner comentarios
+  </head>
+  
+<body>
+   <!-- contenido de la pagina>
+   <p paragraph > </p>
+   
+   <!--Javascript y jquery debe ir antes de cerrar la etuiqueta body no en el head, se carga primero el diseno y luego el script>
+   <!-- doble slash porque no se sabe si es http o https, so el browser se encarga de pner el protocolo del sitio sea http o https>
+   <script scr="//ajax.googleapis.com/ajax/libs/jquery/1.0.2/jquery.min.js"</script>
+   
+   <script> window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js" <\/script') </script
+   <script src="js/plugins.js"><script>
+   <script src="js/main.js"><script>
 

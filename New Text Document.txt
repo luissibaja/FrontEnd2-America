@@ -51,3 +51,10 @@ El Documento:
         </script>
     </body>
 </html>
+
+en sublime testx 2 con ctrl + space pone las estriutturas, por ejemplo ponga html y le da crtl + spcae le crea la estructura
+cuando se hacen sitios nunca se hacen las divisiones de lenguaje por caprteas, siempre por dominios o subdominios, las pagnas deben tener solo un lenguage
+porque google indexa sitios por idioma, por dominio, subdominio, lo mejor es el dominio.
+
+
+en <link rel="stylesheet" type="text/css" href=""> se quita type="text/css" pues hy en dia todo es css so es codigo redundante

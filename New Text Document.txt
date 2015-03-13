@@ -2,3 +2,6 @@
 2. Mobile first
 3. Resposive design
 4. BoilerPlate: reglas para mejores practicas en HTML
+  <!DOCTYPE html>: tipo de organizacion del documento en este caso html 5
+  Google Analitics para ver que browser usan
+
